@@ -8,11 +8,38 @@ html {
   box-sizing: inherit;
 }
 
+img {
+  max-height: 500px;
+}
+
 .banner {
   position: relative;
+  max-width: 45em;
 }
 
 .img-flex {
   display: flex;
   position: absolute;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+.btn {
+  color: #fff;
+  font-weight: normal;
+  font-family: Roboto, serif;
+  text-decoration: none;
+  font-size: .875rem;
+  max-width: 10em;
+  display: block;
+  padding: .2em .5em .3em;
+  background-color: #333;
+  border-radius: 4px;
+  text-align: center;
 }
