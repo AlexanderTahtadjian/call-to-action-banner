@@ -20,6 +20,8 @@ img {
 .img-flex {
   display: flex;
   position: absolute;
+  padding: 0 1rem;
+  bottom: 1rem;
 }
 
 h2 {
@@ -40,6 +42,10 @@ p {
   display: block;
   padding: .2em .5em .3em;
   background-color: #333;
-  border-radius: 4px;
+  border-radius: 8px;
   text-align: center;
+}
+
+.btn-big {
+  position: absolute;
 }
