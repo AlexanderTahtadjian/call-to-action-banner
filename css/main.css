@@ -73,3 +73,7 @@ p {
 .btn-big {
 
 }
+
+.btn:hover {
+  background-color: black;
+}
