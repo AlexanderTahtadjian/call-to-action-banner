@@ -9,7 +9,7 @@ html {
 }
 
 img {
-
+  align-items: stretch;
 }
 
 body {
@@ -19,7 +19,7 @@ body {
 .banner {
   position: relative;
   max-height: 500px;
-  margin: 0rem;
+  margin: 1rem;
   overflow: hidden;
 }
 
@@ -72,7 +72,7 @@ p {
 }
 
 .btn-big {
-
+  margin: 0 auto;
 }
 
 .btn:hover {
