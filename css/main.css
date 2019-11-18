@@ -11,6 +11,7 @@ html {
 img {
 
 }
+
 body {
   margin: 0;
 }
@@ -44,11 +45,12 @@ body {
 }
 
 .img {
-  width: 33%
+  width: 33%;
 }
 
 h2 {
   font-size: 3rem;
+  font-family: "Roboto Condensed", serif;
 }
 
 p {
