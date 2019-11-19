@@ -52,10 +52,12 @@ body {
 h2 {
   font-size: 3rem;
   font-family: "Roboto Condensed", serif;
+  margin-bottom: 0;
 }
 
 p {
   font-size: 1.5rem;
+  margin-top: 0;
 }
 
 .btn {
