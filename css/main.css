@@ -52,9 +52,9 @@ body {
 h2 {
   font-size: 3rem;
   font-family: "Roboto Condensed", serif;
-  line-height: 1;
+  line-height: 1.1;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: .3em;
 }
 
 p {
